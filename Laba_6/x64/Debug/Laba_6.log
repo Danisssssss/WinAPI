@@ -1,0 +1,4 @@
+﻿  Laba_6.cpp
+D:\Программирование\С++\Computing architecture\WinAPI\Laba_6\resource1.h(5,1): warning C4005: IDD_DIALOG1: изменение макроопределения
+D:\Программирование\С++\Computing architecture\WinAPI\Laba_6\resource.h(22,1): message : см. предыдущее определение "IDD_DIALOG1"
+  Laba_6.vcxproj -> D:\Программирование\С++\Computing architecture\WinAPI\x64\Debug\Laba_6.exe
